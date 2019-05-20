@@ -1,4 +1,4 @@
-# wep-app-sec (WORK IN PROGRESS)
+# wep-app-sec
 A compact ASP.Net application to learn about securing web applications and apis.
 
 ## Introduction
